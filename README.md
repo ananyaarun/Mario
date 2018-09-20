@@ -1,4 +1,4 @@
-# Terminal Mario Game By Ananya Arun 20171019
+# Mario Terminal Game By Ananya Arun
 
 ## Characters
 
