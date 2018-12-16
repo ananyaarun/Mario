@@ -11,7 +11,6 @@ from colorama import init
 
 init()
 
-
 class Board():
     """ Background generation """
 
