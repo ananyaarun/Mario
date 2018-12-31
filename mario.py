@@ -11,7 +11,6 @@ from colorama import init
 
 init()
 
-
 class Mario():
 
     def __init__(self):
