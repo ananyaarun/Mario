@@ -9,7 +9,6 @@ from random import randint
 from colorama import init
 
 init()
-
 rows = shutil.get_terminal_size().lines
 columns = shutil.get_terminal_size().columns
 string = []
