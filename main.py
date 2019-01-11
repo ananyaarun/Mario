@@ -15,7 +15,6 @@ from colorama import init
 
 init()
 
-
 class GetchUnix():
     """ input """
 
